@@ -52,7 +52,7 @@ import image2 from "../assets/piano.jpg";
 import image3 from "../assets/guitar.jpg";
 
 export default {
-  name: "musicplayer",
+  name: "index",
   data() {
     return {
       music: [
